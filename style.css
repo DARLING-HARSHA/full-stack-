@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    padding: 20px;
+    background: #f5f5f5;
+}
+
+h1{
+    color: darkblue;
+}
+
+.project{
+    background: white;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
